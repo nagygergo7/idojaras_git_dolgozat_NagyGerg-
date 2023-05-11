@@ -49,6 +49,8 @@ img
 ul
 {
 	font-size:small ;
+	list-style-image: url(nap.png);
+    margin-left: 10%;
 }
 
 input
