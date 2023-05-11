@@ -30,7 +30,8 @@ p
 
 table
 {
-	border:outset;
+	border:outset 3px;
+		width: 80%;
 }
 
 hr
@@ -58,8 +59,4 @@ input
 
 h1, h2{
 	color: #243f84;
-}
-#táblázat{
-width: 80%;
-border: 3px solid black
 }
