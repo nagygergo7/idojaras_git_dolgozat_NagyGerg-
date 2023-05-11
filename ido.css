@@ -5,6 +5,11 @@ body
 {
 	background-size:100% auto;
 	background-image: url(background.jpg);
+	background-repeat:no-repeat; 
+  background-position:left top; 
+  background-attachment:fixed;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 1.5em;
 }
 
 #keret
