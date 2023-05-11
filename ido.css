@@ -60,3 +60,9 @@ input
 h1, h2{
 	color: #243f84;
 }
+.szurke{
+	font-size: small;
+	text-align: center;
+	color: #808183;
+	font-weight: bold;
+}
