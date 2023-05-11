@@ -60,6 +60,6 @@ h1, h2{
 	color: #243f84;
 }
 #táblázat{
-margin: 0;
-padding: 0;
+width: 80%;
+border: 3px solid black
 }
